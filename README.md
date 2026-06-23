@@ -84,4 +84,3 @@ This Excel dashboard was developed to analyze customer engagement, sales perform
 ## Author
 
 Dhruv Jain
-Aspiring Data & Finance Analyst
